@@ -1,0 +1,15 @@
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.csproj.AssemblyReference.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\bin\Debug\net6.0\Dividing number n to 7 and 3.exe
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\bin\Debug\net6.0\Dividing number n to 7 and 3.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\bin\Debug\net6.0\Dividing number n to 7 and 3.runtimeconfig.json
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\bin\Debug\net6.0\Dividing number n to 7 and 3.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\bin\Debug\net6.0\ref\Dividing number n to 7 and 3.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\bin\Debug\net6.0\Dividing number n to 7 and 3.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\ref\Dividing number n to 7 and 3.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Dividing number n to 7 and 3\Dividing number n to 7 and 3\obj\Debug\net6.0\Dividing number n to 7 and 3.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8b234d4-fa2e-4b9d-8ec8-cc4e001b1dcb": {
+      "ProjectGuid": "e8b234d4-fa2e-4b9d-8ec8-cc4e001b1dcb",
+      "DisplayName": "Dividing number n to 7 and 3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

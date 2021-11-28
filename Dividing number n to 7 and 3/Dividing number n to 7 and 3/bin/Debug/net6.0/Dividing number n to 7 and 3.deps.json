@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dividing number n to 7 and 3/1.0.0": {
+        "runtime": {
+          "Dividing number n to 7 and 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dividing number n to 7 and 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

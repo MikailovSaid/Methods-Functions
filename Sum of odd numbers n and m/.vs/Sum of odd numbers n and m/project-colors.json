@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd28c684-d592-4ee6-8b23-9826005ae93f": {
+      "ProjectGuid": "fd28c684-d592-4ee6-8b23-9826005ae93f",
+      "DisplayName": "Sum of odd numbers n and m",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

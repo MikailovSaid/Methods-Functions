@@ -1,0 +1,15 @@
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\bin\Debug\net6.0\Count of odd numbers n and m.exe
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\bin\Debug\net6.0\Count of odd numbers n and m.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\bin\Debug\net6.0\Count of odd numbers n and m.runtimeconfig.json
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\bin\Debug\net6.0\Count of odd numbers n and m.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\bin\Debug\net6.0\ref\Count of odd numbers n and m.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\bin\Debug\net6.0\Count of odd numbers n and m.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\ref\Count of odd numbers n and m.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.genruntimeconfig.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Count of odd numbers n and m\Count of odd numbers n and m\obj\Debug\net6.0\Count of odd numbers n and m.csproj.AssemblyReference.cache

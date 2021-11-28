@@ -1,0 +1,15 @@
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\bin\Debug\net6.0\Complex or simple number n.exe
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\bin\Debug\net6.0\Complex or simple number n.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\bin\Debug\net6.0\Complex or simple number n.runtimeconfig.json
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\bin\Debug\net6.0\Complex or simple number n.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\bin\Debug\net6.0\ref\Complex or simple number n.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\bin\Debug\net6.0\Complex or simple number n.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\ref\Complex or simple number n.dll
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.genruntimeconfig.cache
+C:\Users\mikay\OneDrive\Рабочий стол\HomeWorkk\Complex or simple number n\Complex or simple number n\obj\Debug\net6.0\Complex or simple number n.csproj.AssemblyReference.cache

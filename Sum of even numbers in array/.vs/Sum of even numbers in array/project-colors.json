@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84a1ebe2-aa9a-4550-8cc8-7a3cc183608d": {
+      "ProjectGuid": "84a1ebe2-aa9a-4550-8cc8-7a3cc183608d",
+      "DisplayName": "Sum of even numbers in array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

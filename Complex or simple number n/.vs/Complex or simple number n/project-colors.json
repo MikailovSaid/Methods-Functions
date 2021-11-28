@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2de2e3da-ff4a-4a0b-af13-eaa6b541917b": {
+      "ProjectGuid": "2de2e3da-ff4a-4a0b-af13-eaa6b541917b",
+      "DisplayName": "Complex or simple number n",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
